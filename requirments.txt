@@ -1,0 +1,17 @@
+re 
+torch 
+evaluate 
+textstat
+fuzzywuzzy
+Levenshtein
+rank_bm25
+transformers
+nltk
+streamlit
+numpy
+time
+PyPDF2
+langchain
+langchain_community
+langchain_huggingface
+transformers
