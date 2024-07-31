@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive README for your "Chat with My Data" project:
-
----
-
 # Chat with My Data
 
 "Chat with My Data" is an interactive application that allows users to upload a PDF file and ask questions based on the content of that file. The project leverages Natural Language Processing (NLP) techniques to analyze the content and provide insightful responses. It includes various evaluation metrics to ensure the quality, relevance, and coherence of the responses.
