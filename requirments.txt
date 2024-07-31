@@ -15,3 +15,4 @@ langchain
 langchain_community
 langchain_huggingface
 transformers
+faiss_cpu
