@@ -80,7 +80,7 @@ To run this project locally, follow these steps:
 
 ```
 ChatwithMyData/
-├── app2.py                    # Main application script
+├── app.py                    # Main application script
 ├── eval_metrics.py            # Script containing evaluation metrics and LLMasEvaluator class
 ├── requirements.txt           # List of required packages
 ├── README.md                  # Project documentation
@@ -88,7 +88,7 @@ ChatwithMyData/
 └── data/                      # Directory to store uploaded PDF files
 ```
 
-### app2.py
+### app.py
 
 The main Streamlit application script that handles:
 - PDF file upload.
